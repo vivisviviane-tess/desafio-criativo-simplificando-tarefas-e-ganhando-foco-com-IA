@@ -56,40 +56,53 @@ O texto será publicado em um blog de Marketing voltado a profissionais que est�
 O público conhece conceitos básicos de Marketing, mas ainda não domina técnicas de redação para ambientes digitais.
 
 Instruções
+
 Produza um artigo com aproximadamente 700 palavras.
+
 Crie um título claro e relacionado ao tema.
+
 Escreva uma introdução curta que apresente o assunto e mostre ao leitor o que ele aprenderá.
+
 Organize o desenvolvimento com intertítulos que facilitem a leitura.
+
 Desenvolva uma ideia principal em cada seção.
+
 Inclua orientações que possam ser aplicadas na rotina de produção de conteúdo.
+
 Finalize o artigo retomando os principais aprendizados de maneira natural.
+
 Use linguagem simples, próxima e conversacional.
+
 Prefira frases e parágrafos curtos.
+
 Explique termos técnicos quando forem necessários.
+
 Evite
-linguagem excessivamente técnica;
-frases muito longas;
-repetição da mesma ideia em diferentes partes do texto;
-parágrafos extensos;
-informações genéricas que não ajudam o leitor;
-tom excessivamente formal ou acadêmico.
+
+- linguagem excessivamente técnica;
+- frases muito longas;
+- repetição da mesma ideia em diferentes partes do texto;
+- parágrafos extensos;
+- informações genéricas que não ajudam o leitor;
+- tom excessivamente formal ou acadêmico.
+
 Formato da resposta
 
 Entregue somente o artigo final, seguindo esta estrutura:
 
-Título
+H1 Título
 
 Introdução.
 
-Intertítulo 1
+H2 Intertítulo 1
 
 Desenvolvimento.
 
-Intertítulo 2
+H2 Intertítulo 2
 
 Desenvolvimento.
 
-Intertítulo 3
+H2 Intertítulo 3
 
 Desenvolvimento.
 
